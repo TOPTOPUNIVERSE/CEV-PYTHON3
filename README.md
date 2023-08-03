@@ -2,7 +2,7 @@
 [![Python](https://github.com/TOPTOPUNIVERSE/CEV-PYTHON3/blob/main/images/logo_python.png)](https://www.python.org/doc/)
 # Curso em vídeo de Python 3
 ### Exercícios de Python que fiz do Curso em vídeo de Python 
-&rarr
+&#8594;
 <ul>
     <li> Mundo 1: Fundamentos &rarr 35 Exercícios.</li>
     <li> Mundo 2 - Estruturas de controle - 36 Exercícios.</li>
