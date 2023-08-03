@@ -4,6 +4,6 @@
 ### Exercícios de Python que fiz do Curso em vídeo de Python 
 
 <ul>
-    <li> Mundo 1 - Fundamentos (35 Exercícios)</li>
+    <li> Mundo 1 - Fundamentos - 35 Exercícios</li>
     <li> Mundo 2 - Estruturas de controle (36 Exercícios)</li>
 </ul>
