@@ -1,6 +1,6 @@
 # Crie uma matriz(3x3) e preencha com valores lidos pelo teclado
 # no fim mostre a matriz na tela
-# Solução mais enxuta guanabara
+# Solução mais enxuta 
 matriz = [[0, 0, 0], [0, 0, 0], [0, 0, 0]]
 for linha in range(0, 3):
     for coluna in range(0, 3):
@@ -10,7 +10,7 @@ for linha in range(0, 3):
     for coluna in range(0, 3):
         print(f'[{matriz[linha][coluna]:^5}]', end='')
     print()
-'''minha solução
+'''minha 1 solução
 matriz = [[], [], []]
 for c in range(0, 3):
     v = int(input(f'Digite um valor para [0, {c}]: '))
