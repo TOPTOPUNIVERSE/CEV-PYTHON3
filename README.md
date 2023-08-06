@@ -6,4 +6,5 @@
 <ul>
     <li> Mundo 1: Fundamentos &#8594; 35 Exercícios.</li>
     <li> Mundo 2: Estruturas de controle &#8594; 36 Exercícios.</li>
+    <li> Mundo 3: Estruturas compostas &#8594; 43 Exercícios.</li>
 </ul>
