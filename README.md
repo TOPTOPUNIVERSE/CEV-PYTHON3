@@ -1,7 +1,7 @@
 [![Curso em video](https://github.com/TOPTOPUNIVERSE/CEV-PYTHON3/blob/main/images/logo_curso_em_video.png)](https://www.youtube.com/@CursoemVideo/playlists)
 [![Python](https://github.com/TOPTOPUNIVERSE/CEV-PYTHON3/blob/main/images/logo_python.png)](https://www.python.org/doc/)
 # Curso em vídeo de Python 3
-### Exercícios de Python que fiz do Curso em vídeo de Python 
+### Exercícios que fiz do Curso em vídeo de Python por Gustavo Guanabara
 
 <ul>
     <li> Mundo 1: Fundamentos &#8594; 35 Exercícios.</li>
